@@ -1,2 +1,3 @@
 # hello-world2
-My first repository on GitHub
+My first repository on GitHub.
+My name is Matt!
